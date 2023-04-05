@@ -1,4 +1,4 @@
-# Automating the Provisioning of a Web Application with Vagrant and VProfile
+# Automating the Provisioning of a Web Application with Vagrant
 
 ## Introduction
 
